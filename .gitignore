@@ -20,6 +20,9 @@
 *.so.*
 *.dylib
 
+# Bin directory
+bin/
+
 # Executables
 *.exe
 *.out
